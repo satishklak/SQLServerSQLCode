@@ -1,2 +1,2 @@
-# SQLServerSQLCode
-SQLServerSQLScenarios
+# SQLServerSQLScripts
+Sample case studies and Scripts
